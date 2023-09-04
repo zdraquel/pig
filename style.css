@@ -1,0 +1,106 @@
+.emoji{
+    position: relative;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.face{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    border-radius: 50%;
+    background-color:rgb(228, 146, 75);
+}
+.eye1{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 140px;
+}
+.eyeball1{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 140px;
+    margin-top: 159px;
+}
+.eye2{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 290px;
+    margin-top: 140px;
+}
+.eyeball2{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 310px;
+    margin-top: 159px;
+}
+.nose{
+    width: 180px;
+    height: 96px;
+    position: absolute;
+    border-radius: 40px 40px 10px 10px;
+    background-color: rgb(207, 102, 164);
+    margin-left: 160px;
+    margin-top: 278px;
+}
+.noseball1{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: black ;
+    margin-left: 40px;
+    margin-top: 28px;
+}
+.noseball2{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: black ;
+    margin-left: 100px;
+    margin-top: 28px;
+}
+.ear1{
+    width: 135px;
+    height: 180px;
+    position: absolute;
+    border-radius: 600px 600px 0px 20px;
+    background-color: saddlebrown;
+    margin-left: 40px;
+    margin-top: -50px;
+    z-index: -1;
+}
+.ear2{
+    width: 135px;
+    height: 180px;
+    position: absolute;
+    border-radius: 600px 600px 0px 20px;
+    background-color:saddlebrown;
+    margin-left: 325px;
+    margin-top: -50px;
+    z-index: -1;
+}
+.mouth{
+    width: 140px;
+    height: 50px;
+    position: absolute;
+    border-radius: 10px 10px 70px 70px;
+    background-color:rgb(12, 8, 4);
+    margin-top: 400px;
+    margin-left: 183px;
+}
+
+    
